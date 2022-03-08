@@ -1,0 +1,18 @@
+body {
+    background-color: #151515;
+}   
+
+h1 {
+    color: #ffffff;
+    font-family: 'Open Sans';
+}
+
+svg {
+    border-style: solid;
+    border-color:#ffffff;
+}
+
+p {
+    color: #ffffff;
+    font-family: 'Open Sans';
+}
